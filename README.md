@@ -1,4 +1,4 @@
-## Capstone Project – Airline Passenger Satisfaction (DataTalksClub)
+## Airline Passenger Satisfaction (DataTalksClub)
 ### Problem Description
 Airline customer satisfaction is influenced by many operational and service-related factors such as delays, seat comfort, onboard service, and travel class. 
 However, these factors are often analyzed in isolation, making it difficult for airline staff to understand which variables most strongly impact passenger satisfaction.
